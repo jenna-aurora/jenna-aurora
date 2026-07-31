@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+# Jenna Aurora Cardenas
+  I am a Licensed cosmetologist in the State of Lousiana.
+  I'm currently building toward my second web development badge.
 <!--
 **jenna-aurora/jenna-aurora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
